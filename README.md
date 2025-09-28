@@ -1,9 +1,9 @@
 <div align="center" >
- 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient)
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mouse+Memoirs&size=65&pause=2500&color=68ABFF&vCenter=true&width=750&height=70&separator=%3C&lines=Hello!+I+am+Mohammad+Fazel+Samavati;%3CA+Computer+Engineering+student;%3CAt+Sharif+University+of+Technology)](https://git.io/typing-svg)
- 
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient" style="width: 100%;"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mouse+Memoirs&size=65&pause=2500&color=68ABFF&vCenter=true&width=750&height=70&separator=%3C&lines=Hello!+I+am+Mohammad+Fazel+Samavati%3CA+Computer+Engineering+student;%3CAt+Sharif+University+of+Technology)](https://git.io/typing-svg)
+
 </div>
 
 ### 👋 Hi, I’m Mohammad Fazel Samavati
