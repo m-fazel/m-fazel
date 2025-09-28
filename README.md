@@ -57,7 +57,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-fazel&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-fazel&theme=tokyonight" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-fazel&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <br>
