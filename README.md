@@ -9,28 +9,8 @@
 ### 👋 Hi, I’m Mohammad Fazel Samavati
 
 - 🎓 I'm a **Computer Engineering** student at **Sharif University of Technology**.
-- 🌱 I’m currently learning more about **Cloud Computing** and **Machine Learning**.
-- 👯 I’m looking to collaborate on open-source projects related to **Web Development**.
+- 🌱 I’m currently learning more about **Cloud Computing**, **Machine Learning** and **Network and Security**.
 - 📫 How to reach me: **mrmfami835@yahoo.com**
-
-### 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/fazel-samavati-1a7aa1268/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="My LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://github.com/m-fazel" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="My GitHub" height="40" width="40" />
-  </a>
-  <a href="https://t.me/m_fazel" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=telegram" alt="My Telegram" height="40" width="40" />
-  </a>
-</p>
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-fazel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-fazel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ## 🛠️ Skills
 
