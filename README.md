@@ -54,33 +54,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-fazel&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-fazel&theme=tokyonight" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-fazel&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<br>
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m-fazel&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
-
-<br>
-
-## 💡 Fun Facts
-- ☕ Coffee + Coding = Productivity  
-- ✈️ Love traveling & discovering cultures  
-- 🤖 Always curious about **Automation**  
-
-<br>
-
 ## 📫 Connect with Me
 
 <p align="center">
